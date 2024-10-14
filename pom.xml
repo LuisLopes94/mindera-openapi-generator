@@ -5,7 +5,7 @@
     <artifactId>mindera-openapi-generator</artifactId>
     <packaging>jar</packaging>
     <name>mindera-openapi-generator</name>
-    <version>5.0.2</version>
+    <version>5.0.4</version>
     <build>
     </build>
     <dependencies>
