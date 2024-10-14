@@ -5,7 +5,7 @@
     <artifactId>mindera-openapi-generator</artifactId>
     <packaging>jar</packaging>
     <name>mindera-openapi-generator</name>
-    <version>4.0.1</version>
+    <version>5.0.0</version>
     <build>
     </build>
     <dependencies>
@@ -38,9 +38,9 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <testng-version>7.5</testng-version>
+        <testng-version>7.10.2</testng-version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <openapi-generator-version>6.0.1</openapi-generator-version>
-        <mockito-version>4.5.1</mockito-version>
+        <openapi-generator-version>7.9.0</openapi-generator-version>
+        <mockito-version>5.14.2</mockito-version>
     </properties>
 </project>
